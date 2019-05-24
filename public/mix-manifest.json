@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/create.js": "/js/create.js",
+    "/js/delete.js": "/js/delete.js",
+    "/js/edit.js": "/js/edit.js",
+    "/js/validateFinal.js": "/js/validateFinal.js",
+    "/js/validarYCrear.js": "/js/validarYCrear.js",
+    "/js/validarYEditar.js": "/js/validarYEditar.js"
+}
